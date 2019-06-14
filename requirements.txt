@@ -59,7 +59,6 @@ opencv-contrib-python==4.1.0.25
 packaging==19.0
 pandas==0.24.2
 pandocfilters==1.4.2
-parso==0.4.0
 pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==6.0.0
