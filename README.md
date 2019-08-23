@@ -1,7 +1,9 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
+[**Important**] Please check [here](https://github.com/cmhungsteve/TA3N) or https://github.com/cmhungsteve/TA3N for the most updated repo!
+
+---
 This is the official PyTorch implementation of our papers:
 [<img align="right" src="webpage/OLIVES.png" width="10%">](https://ghassanalregib.info/)
-
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
 [__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.info/), [Jaekwon Woo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
