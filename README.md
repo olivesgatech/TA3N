@@ -1,4 +1,7 @@
 # Temporal Attentive Alignment for Video Domain Adaptation
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-attentive-alignment-for-large-scale/domain-adaptation-on-hmdb-ucf-full)](https://paperswithcode.com/sota/domain-adaptation-on-hmdb-ucf-full?p=temporal-attentive-alignment-for-large-scale)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-attentive-alignment-for-large-scale/domain-adaptation-on-ucf-hmdb-full)](https://paperswithcode.com/sota/domain-adaptation-on-ucf-hmdb-full?p=temporal-attentive-alignment-for-large-scale)
+
 [**Important**] Please check [here](https://github.com/cmhungsteve/TA3N) or https://github.com/cmhungsteve/TA3N for the most updated repo!
 
 ---
@@ -6,13 +9,13 @@ This is the official PyTorch implementation of our papers:
 [<img align="right" src="webpage/OLIVES.png" width="10%">](https://ghassanalregib.info/)
 
 **Temporal Attentive Alignment for Large-Scale Video Domain Adaptation**  
-[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.info/), [Jaekwon Yoo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
-International Conference on Computer Vision (ICCV), 2019 **[Oral]**  
-[[arXiv](https://arxiv.org/abs/1907.12743)]
+[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/), [Jaekwon Yoo](https://www.linkedin.com/in/jaekwon-yoo-8685862b/), [Ruxin Chen](https://www.linkedin.com/in/ruxin-chen-991477119/), [Jian Zheng](https://www.linkedin.com/in/jian-zheng/)  
+[International Conference on Computer Vision (ICCV), 2019](http://iccv2019.thecvf.com/) **[Oral (acceptance rate: 4.6%)]**  
+[[arXiv](https://arxiv.org/abs/1907.12743)][[Oral](https://youtu.be/j9cDuzmpYP8)][[Poster](webpage/ICCV2019_Steve_TA3N_poster_v1_2.pdf)][[Open Access](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.html)][[Blog](https://mlatgt.blog/2019/09/10/overcoming-large-scale-annotation-requirements-for-understanding-videos-in-the-wild/)]
 
 **Temporal Attentive Alignment for Video Domain Adaptation**  
-[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib](https://ghassanalregib.info/)  
-CVPR Workshop (Learning from Unlabeled Videos), 2019  
+[__***Min-Hung Chen***__](https://www.linkedin.com/in/chensteven), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Ghassan AlRegib (Advisor)](https://ghassanalregib.info/)  
+[CVPR Workshop (Learning from Unlabeled Videos), 2019](https://sites.google.com/view/luv2019)  
 [[arXiv](https://arxiv.org/abs/1905.10861)]
 
 <p align="center">
@@ -147,20 +150,20 @@ The options in the scripts have comments with the following types:
 ## Citation
 If you find this repository useful, please cite our papers:
 ```
-@article{chen2019taaan,
-title={Temporal Attentive Alignment for Large-Scale Video Domain Adaptation},
-author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Yoo, Jaekwon and Chen, Ruxin and Zheng, Jian},
-booktitle = {International Conference on Computer Vision (ICCV)},
-year={2019},
-url={https://arxiv.org/abs/1907.12743}
+@inproceedings{chen2019temporal,
+  title={Temporal attentive alignment for large-scale video domain adaptation},
+  author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan and Woo, Jaekwon and Chen, Ruxin and Zheng, Jian},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2019},
+  url={https://arxiv.org/abs/1907.12743}
 }
 
-@article{chen2019temporal,
-title={Temporal Attentive Alignment for Video Domain Adaptation},
-author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
-booktitle = {CVPR Workshop on Learning from Unlabeled Videos},
-year={2019},
-url={https://arxiv.org/abs/1905.10861}
+@article{chen2019taaan,
+  title={Temporal Attentive Alignment for Video Domain Adaptation},
+  author={Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
+  journal={CVPR Workshop on Learning from Unlabeled Videos},
+  year={2019},
+  url={https://arxiv.org/abs/1905.10861}
 }
 ```
 
